@@ -1,0 +1,1 @@
+# plugins-responsive-image-maps
